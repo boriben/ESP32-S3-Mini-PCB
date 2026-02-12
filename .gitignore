@@ -2,3 +2,6 @@
 ~basicPCB.kicad_pcb.lck
 basicPCB-backups
 fp-info-cache
+.DS_Store
+*-backups/
+*.kicad_prl
